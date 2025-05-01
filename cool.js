@@ -1,3 +1,5 @@
+// this was just for fun nothing much chill
+// this was to showcase how script kiddies do those defacement in demo session of a bootcamp at bootcamp.ncateam.xyz 
 document.body.innerHTML = `
     <style>
         body { 
